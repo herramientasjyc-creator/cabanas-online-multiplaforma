@@ -1,0 +1,7 @@
+{
+  "name": "cabanasonline",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular-standalone"
+}
